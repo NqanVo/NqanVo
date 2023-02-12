@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NqanVo
-?i=js,html,css
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,react,nodejs,php,redux,express,mongodb,mysql,figma,ps,ableton)](https://skillicons.dev)
